@@ -74,6 +74,8 @@ color: white
 }
 
 footer {
+display: flex;
+justify-content: space-around;
 position: fixed;
 width: 10%;
 }
