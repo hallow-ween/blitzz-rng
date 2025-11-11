@@ -1,7 +1,7 @@
 const auraName = document.getElementById("auraName");
 const auraRarity = document.getElementById("auraRarity");
 const auraBio = document.getElementById("auraBio");
-const auraSelector = document.getElementById("auraSelector");
+const auraSelector = document.getElementById("auraSelect");
 
 
 const auras = [
