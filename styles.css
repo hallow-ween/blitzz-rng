@@ -26,3 +26,7 @@ margin-top: 100px;
 animation: Glow 1s ease-in-out infinite alternate ;
 color: white;
 }
+
+p {
+color: white;
+}
