@@ -54,3 +54,13 @@ border-color: black;
 font-family: AudioWide;
 }
 
+.sCard {
+margin-top: 20px;
+width: 300px;
+height: auto;
+border-style: solid;
+border-color: white;
+box-shadow: 0 0 50px 10px #8AE6FF;
+border-radius: 10px;
+}
+
