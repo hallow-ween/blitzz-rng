@@ -13,7 +13,7 @@ const auras = [
 
 auraSelector.addEventListener("change", function() {
 const auraSelected = parseInt(auraSelector.value);
-auraName.textContent = auras[auraSelected]["name"];
-auraRarity.textContent = auras[auraSelected]["rarity"];
-auraBio.textContent = auras[auraSelected]["bio"];
+auraName.textContent = "Name: " + auras[auraSelected]["name"];
+auraRarity.textContent = "Rarity: " + auras[auraSelected]["rarity"];
+auraBio.textContent = "Descrpition: " + auras[auraSelected]["bio"];
 });
