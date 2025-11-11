@@ -40,6 +40,12 @@ box-shadow: 0 0 50px 10px #8AE6FF;
 border-radius: 10px;
 }
 
+.container {
+padding: 5px
+text-align: center;
+color: white
+}
+
 
 select {
 background-color: white;
