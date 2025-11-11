@@ -14,10 +14,10 @@ background-color: #081921;
 
 @keyframes Glow {
 from {
-text-shadow: 0 0 10px #E5FAFF, 0 0 20px #E5FAFF, 0 0 30px #E5FAFF;
+text-shadow: 0 0 10px #E5FAFF, 0 0 20px #E5FAFF, 0 0 30px #8AE6FF;
 }
 to {
-text-shadow: 0 0 20px #E5FAFF, 0 0 30px #E5FAFF, 0 0 40px #E5FAFF;
+text-shadow: 0 0 20px #E5FAFF, 0 0 30px #E5FAFF, 0 0 40px #37B0D4;
 }
  }
 
