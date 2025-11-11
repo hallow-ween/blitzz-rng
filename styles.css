@@ -1,0 +1,20 @@
+body {
+display: flex;
+flex-direction: column;
+align-items: center;
+margin: 0;
+}
+
+@keyframes Glow {
+from {
+text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #8AE6FF, 0 0 50px #8AE6FF, 0 0 60px #8AE6FF, 0 0 70px #8AE6FF;
+}
+to {
+text-shadow: 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff, 0 0 50px #37B0D4, 0 0 60px #37B0D4, 0 0 70px #37B0D4, 0 0 80px #37B0D4;
+}
+ }
+
+.headText {
+animation: Glow 1s ease-in-out infinite alternate ;
+color: white;
+}
