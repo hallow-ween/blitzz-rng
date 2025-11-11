@@ -45,3 +45,16 @@ padding: 5px
 text-align: center;
 color: white
 }
+
+.cards {
+display: flex;
+gap: 50px;
+}
+
+select {
+background-color: white;
+border-style: solid;
+border-color: black;
+font-family: AudioWide;
+}
+
