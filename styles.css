@@ -1,10 +1,10 @@
 @font-face {
-font-family: Pixel;
-src: url(BoldPixels.ttf);
+font-family: AudioWide;
+src: url(Audiowide-Regular.ttf);
 }
 
 body {
-font-family: Pixel;
+font-family: AudioWide;
 display: flex;
 flex-direction: column;
 align-items: center;
