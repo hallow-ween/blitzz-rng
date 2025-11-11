@@ -30,3 +30,16 @@ color: white;
 p {
 color: white;
 }
+
+.bioCard {
+width: auto;
+height: auto;
+border-style: solid;
+border-color: white;
+text-shadow: 0 0 10px #E5FAFF, 0 0 20px #8AE6FF;
+border-radius: 3px;
+}
+
+.container {
+padding: 5px
+}
