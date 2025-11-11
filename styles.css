@@ -55,7 +55,8 @@ font-family: AudioWide;
 }
 
 .sCard {
-margin-top: 20px;
+margin-top: 250px;
+margin-bottom: 50px
 width: 300px;
 height: auto;
 border-style: solid;
