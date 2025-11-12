@@ -72,7 +72,7 @@ h3 {
 color: white
 }
 
-footer {
+.footer {
 bottom: 0;
 display: flex;
 justify-content: space-around;
@@ -81,7 +81,4 @@ width: 100%;
 align-items: center;
 }
 
-footer a {
-float: right;
-}
 
