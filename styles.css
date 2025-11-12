@@ -9,6 +9,7 @@ display: flex;
 align-items: center;
 margin: 0;
 background-color: #081921;
+bottom-padding: 70px;
 }
 
 marquee {
@@ -46,7 +47,7 @@ border-radius: 10px;
 .container {
 padding: 5px
 text-align: center;
-color: white
+color: white;
 }
 
 
@@ -69,7 +70,7 @@ border-radius: 10px;
 }
 
 h3 {
-color: white
+color: white;
 }
 
 .footer {
