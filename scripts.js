@@ -7,7 +7,13 @@ const auraSelector = document.getElementById("auraSelect");
 let auras = [];
 fetch("allauras.json")
 .then(response => response.json())
-.then( data => { auras = data; })
+.then( data => { auras = data; 
+auras.forEach(( aura, index) => {         
+const newOption = document.createElement("option");
+newOption.text = aura.name;
+newOption.value = index;
+auraSelector.add(newOption);
+});   })
 .catch(error => console.error(error));
 
 
