@@ -4,11 +4,11 @@ const auraBio = document.getElementById("auraBio");
 const auraSelector = document.getElementById("auraSelect");
 
 
-const auras = [
-  { name: "Common", rarity: "1/2", bio: "Very common aura"},
-  { name: "Uncommon", rarity: "1/4", bio: "Very uncommon aura" },
-  { name: "Good", rarity: "1/5", bio: "Very good aura" }
-]
+let auras = [];
+fetch("allauras.json")
+.then(response => response.json())
+.then( data => { auras = data; })
+.catch(error => console.error(error));
 
 
 auraSelector.addEventListener("change", function() {
