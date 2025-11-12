@@ -17,3 +17,11 @@ auraName.textContent = "Name: " + auras[auraSelected]["name"];
 auraRarity.textContent = "Rarity: " + auras[auraSelected]["rarity"];
 auraBio.textContent = "Descrpition: " + auras[auraSelected]["bio"];
 });
+
+
+const audioPlayer = document.getElementById("audioPlayer");
+const moonlightSong = document.getElementById("moonlightSong");
+
+audioPlayer.addEventListener("click", function() {
+moonlightSong.play();
+});
