@@ -19,9 +19,18 @@ auraBio.textContent = "Descrpition: " + auras[auraSelected]["bio"];
 });
 
 
+
 const audioPlayer = document.getElementById("audioPlayer");
 const moonlightSong = document.getElementById("moonlightSong");
+let Playing = false;
+
 
 audioPlayer.addEventListener("click", function() {
-moonlightSong.play();
+  if (!Playing) {
+  moonlightSong.play();
+  Playing = true;
+  } else {
+  moonlightSong.pause()(
+  Playing = false;
+  }
 });
