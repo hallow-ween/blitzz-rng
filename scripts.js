@@ -30,7 +30,7 @@ audioPlayer.addEventListener("click", function() {
   moonlightSong.play();
   Playing = true;
   } else {
-  moonlightSong.pause()(
+  moonlightSong.pause();
   Playing = false;
   }
 });
