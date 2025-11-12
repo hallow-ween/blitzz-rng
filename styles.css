@@ -54,10 +54,11 @@ color: white;
 
 
 select {
-background-color: white;
+background-color: #081921;
 border-style: solid;
-border-color: black;
+border-color: white;
 font-family: AudioWide;
+color: white;
 }
 
 .sCard {
