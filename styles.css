@@ -85,4 +85,14 @@ align-items: center;
 justify-content: space-around;
 }
 
+#audioPlayer {
+position: fixed;
+top: 0px;
+right: 0px;
+height: 40px;
+width: 40px;
+border-style: solid;
+border-radius: 10px;
+font-family: AudioWide;
 
+}
