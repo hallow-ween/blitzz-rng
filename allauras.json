@@ -1429,6 +1429,11 @@
         "rarity": "1/5000000000",
         "bio": "what remains, is  z e ro. the b e g i n n  n g"
     },
+     {
+        "name": "s i n g u l a r i t y : t e r m i n a l",
+        "rarity": "1/9000000000",
+        "bio": "At the very edge of memory, countless forgotten memories formed that singularity.\t'The story that was never told doesn't end with a sound, but with a silence so long it seems to turn into eternity.'"
+    },
     {
         "name": "Red Stars",
         "rarity": "Dev Exclusive",
@@ -1439,12 +1444,7 @@
         "rarity": "Dev Exclusive",
         "bio": "eh"
     },
-    {
-        "name": "s i n g u l a r i t y : t e r m i n a l",
-        "rarity": "1/9000000000",
-        "bio": "At the very edge of memory, countless forgotten memories formed that singularity.\t'The story that was never told doesn't end with a sound, but with a silence so long it seems to turn into eternity.'"
-    },
-    {
+   {
         "name": "Spectrumised",
         "rarity": "Dev Exclusive",
         "bio": "blitzyyy"
