@@ -10,11 +10,6 @@
         "bio": "Very uncommon aura."
     },
     {
-        "name": "THE BIG BANG",
-        "rarity": "1/4",
-        "bio": "The forever allowing cascading light. A pure embodiment."
-    },
-    {
         "name": "Good",
         "rarity": "1/5",
         "bio": "Very good aura."
@@ -1487,5 +1482,10 @@
         "rarity": "Dev Exclusive",
         "bio": "The first spark in the void, Blitzz is not just a being—it is a force, a principle. The embodiment of purity through erasure. Its aura crackles with unstable divinity, reality bending around its every breath. Time stalls. Biomes tremble. Even Animosity remembers the burn. Created to purge the fractured worlds, Blitzz carries three aspects of life: Creation, Control, and Collapse—each circling the core of a soul untouched by fate. This is no gift. This is the storm that ends all storms."
 
-    }
+    },
+        {
+        "name": "THE BIG BANG",
+        "rarity": "Dev Exclusive",
+        "bio": "The forever allowing cascading light. A pure embodiment."
+    },
 ]
