@@ -1465,12 +1465,7 @@
         "bio": "The red eclipse shines beautifully doused in the crimson light."
 
     },
-    {
-        "name": "orb",
-        "rarity": "Dev Exclusive",
-        "bio": "orbular"
 
-    },
     {
         "name": "orb",
         "rarity": "Dev Exclusive",
@@ -1487,5 +1482,5 @@
         "name": "THE BIG BANG",
         "rarity": "Dev Exclusive",
         "bio": "The forever allowing cascading light. A pure embodiment."
-    },
+    }
 ]
