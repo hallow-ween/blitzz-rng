@@ -1,11 +1,1491 @@
 [
-  { 
-    "name": "Common", "rarity": "1/2", "bio": "Very common aura"
-  },
-  {
-    "name": "Uncommon", "rarity": "1/4", "bio": "Very uncommon aura" 
-  },
-  {
-    "name": "Good", "rarity": "1/5", "bio": "Very good aura" 
-  }
+    {
+        "name": "Common",
+        "rarity": "1/2",
+        "bio": "Very common aura."
+    },
+    {
+        "name": "Uncommon",
+        "rarity": "1/4",
+        "bio": "Very uncommon aura."
+    },
+    {
+        "name": "THE BIG BANG",
+        "rarity": "1/4",
+        "bio": "The forever allowing cascading light. A pure embodiment."
+    },
+    {
+        "name": "Good",
+        "rarity": "1/5",
+        "bio": "Very good aura."
+    },
+    {
+        "name": "Bubbles",
+        "rarity": "1/6",
+        "bio": "An aura that discovered the existence of Bubbles."
+    },
+    {
+        "name": "Natural",
+        "rarity": "1/8",
+        "bio": "Very natural aura."
+    },
+    {
+        "name": "Rare",
+        "rarity": "1/16",
+        "bio": "Rare thing."
+    },
+    {
+        "name": "Divine",
+        "rarity": "1/32",
+        "bio": "Holy thing."
+    },
+    {
+        "name": "Divine : Love",
+        "rarity": "1/32",
+        "bio": "Lovely thing"
+    },
+    {
+        "name": "Crystallized",
+        "rarity": "1/64",
+        "bio": "An aura obsessed with the generation of gems."
+    },
+    {
+        "name": "Shattered",
+        "rarity": "1/111",
+        "bio": "Fragmented pieces of memories. Perhaps, they're one of yours?"
+    },
+    {
+        "name": "Hate",
+        "rarity": "1/128",
+        "bio": "An aura full of hate."
+    },
+    {
+        "name": "Amber",
+        "rarity": "1/150",
+        "bio": "Gem with a yellow hue."
+    },
+    {
+        "name": "Skeletal",
+        "rarity": "1/200",
+        "bio": "From the ashes of the First World rises the Skeletal aura — a haunting flame that dances with the restless spirits of the damned. Wrapped in fiery bones and flickering embers, it embodies the eternal torment of The First World’s forgotten souls."
+    },
+    {
+        "name": "Stellar",
+        "rarity": "1/300",
+        "bio": "An aura with an obsession with the stars above."
+    },
+    {
+        "name": "HP",
+        "rarity": "1/300",
+        "bio": "Successfully gained HP!"
+    },
+    {
+        "name": "Shimmer",
+        "rarity": "1/320",
+        "bio": "A bright, shimmering soul."
+    },
+    {
+        "name": "Ruby",
+        "rarity": "1/350",
+        "bio": "Gem with a red hue."
+    },
+    {
+        "name": "Gamebreaker",
+        "rarity": "1/404",
+        "bio": "We've unfortunately ran into an error! Please try again later."
+    },
+    {
+        "name": "Clover",
+        "rarity": "1/444",
+        "bio": "I feel so lucky!"
+    },
+    {
+        "name": "Emerald",
+        "rarity": "1/500",
+        "bio": "Gem with a green hue."
+    },
+    {
+        "name": "Gilded",
+        "rarity": "1/512",
+        "bio": "Ancient material with a incredibly high cost."
+    },
+    {
+        "name": "Ink",
+        "rarity": "1/700",
+        "bio": "Paint all black."
+    },
+    {
+        "name": "Jackpot",
+        "rarity": "1/777",
+        "bio": "Gamblers quit before their big win.."
+    },
+    {
+        "name": "Sapphire",
+        "rarity": "1/800",
+        "bio": "Gem with a blue hue."
+    },
+    {
+        "name": "Whirlpool",
+        "rarity": "1/900",
+        "bio": "A vessel for the Wind."
+    },
+    {
+        "name": "Aquamarine",
+        "rarity": "1/900",
+        "bio": ""
+    },
+    {
+        "name": "Fog",
+        "rarity": "1/1000",
+        "bio": "Hey, it's really foggy here.."
+    },
+    {
+        "name": "Benevolus",
+        "rarity": "1/1004",
+        "bio": "A benevolent spirit."
+    },
+    {
+        "name": "Beautiful",
+        "rarity": "1/1024",
+        "bio": "A beautiful spirit."
+    },
+    {
+        "name": "Rifle",
+        "rarity": "1/1500",
+        "bio": "WHAT?! WHAT DO YOU MEAN THIS IS AN AURA?? ITS LITERALLY AN AK47!"
+    },
+    {
+        "name": "Rifle : Watergun",
+        "rarity": "1/1500",
+        "bio": "Okay this is getting rediculous. Now it's just a stupid watergun???"
+    },
+    {
+        "name": "Gale",
+        "rarity": "1/1600",
+        "bio": "A spirit confined in ice and snow, forever."
+    },
+    {
+        "name": "Love",
+        "rarity": "1/1700",
+        "bio": "A spirit full of love."
+    },
+    {
+        "name": "Lapis",
+        "rarity": "1/2048",
+        "bio": "A gem with a powerful force."
+    },
+    {
+        "name": "Snow",
+        "rarity": "1/2300",
+        "bio": "Hey, does anyone have a blanket? It's getting pretty chilly here."
+    },
+    {
+        "name": "Disfigurement",
+        "rarity": "1/2499",
+        "bio": "*&^%$^(*@&^#$^!&*"
+    },
+    {
+        "name": "Chatterbox",
+        "rarity": "1/2499",
+        "bio": "YAPYAPYAPYAP"
+    },
+    {
+        "name": "Tide",
+        "rarity": "1/2500",
+        "bio": "A playful spirit, chilling on the beach, and the slow, low tides.."
+    },
+    {
+        "name": "Toxic",
+        "rarity": "1/2500",
+        "bio": "Very toxic thing."
+    },
+    {
+        "name": "MISSINGNO.",
+        "rarity": "1/3000",
+        "bio": "Missing number."
+    },
+    {
+        "name": "EarthBound",
+        "rarity": "1/4022",
+        "bio": "A spirit bound to the Earth, FOREVER."
+    },
+    {
+        "name": "Spatium",
+        "rarity": "1/4096",
+        "bio": "A path of veiled stars. As pure as one can be."
+    },
+    {
+        "name": "Bleeding",
+        "rarity": "1/4444",
+        "bio": "Thats alot of...blood you're loosing. Hey are you alright?"
+    },
+    {
+        "name": "Gilded : Fortune",
+        "rarity": "1/5120",
+        "bio": "A rare twist of fate transforms gold into boundless fortune."
+    },
+    {
+        "name": ":Skull:",
+        "rarity": "1/6900",
+        "bio": "💀"
+    },
+    {
+        "name": "Skull : Heart Eyes",
+        "rarity": "1/6900",
+        "bio": "i luv uuu"
+    },
+    {
+        "name": "Venomous",
+        "rarity": "1/7000",
+        "bio": "This is a constant destruction of life"
+    },
+    {
+        "name": "Retro",
+        "rarity": "1/8888",
+        "bio": "Retro style!"
+    },
+    {
+        "name": "Retro : Evil",
+        "rarity": "1/8888",
+        "bio": "The Messeger of The Lord of Chaos. Stem of the Destruction. The Apostle of Animosity."
+    },
+    {
+        "name": "Reborn",
+        "rarity": "1/9200",
+        "bio": "Embodiment of peace, and tranquility."
+    },
+    {
+        "name": "Diamond",
+        "rarity": "1/9999",
+        "bio": "An incredibly rare gem infused with archaic energy, it leads the lost to where they belong."
+    },
+    {
+        "name": "nothing",
+        "rarity": "1/10000",
+        "bio": "<nothing>"
+    },
+    {
+        "name": "Lucid",
+        "rarity": "1/10000",
+        "bio": "A plea to the monochromatic lies, he begs and begs, but alas, they turn their blind eye."
+    },
+    {
+        "name": "sunshine",
+        "rarity": "1/10500",
+        "bio": "It was formed by the perfect balance of the sunlight and the clouds above."
+    },
+    {
+        "name": "Cadaver",
+        "rarity": "1/12000",
+        "bio": "failed to die...."
+    },
+    {
+        "name": "Serendipity",
+        "rarity": "1/12200",
+        "bio": "A manifestation of harmony. One of the many guardians of harmony, a chosen vessel to shine brighter than its peers."
+    },
+    {
+        "name": "Serendipity : Cupid",
+        "rarity": "1/12200",
+        "bio": "id take a second chance of cupid"
+    },
+    {
+        "name": "Glacier",
+        "rarity": "1/12304",
+        "bio": "...a cold spirit.."
+    },
+    {
+        "name": "Hate : Pure",
+        "rarity": "1/12800",
+        "bio": "An aura that's hated their own existence, and everything around it. [ Pure Hate. ]"
+    },
+    {
+        "name": "Ink : LEAK",
+        "rarity": "1/14000",
+        "bio": "Paint all black."
+    },
+    {
+        "name": "Hazardous",
+        "rarity": "1/14000",
+        "bio": "It's poisonous gasses and material slowly corrupts and poisons everything.."
+    },
+    {
+        "name": "Atmos",
+        "rarity": "1/15000",
+        "bio": "Very powerful thing."
+    },
+    {
+        "name": "Bubbles : Forcefield",
+        "rarity": "1/16000",
+        "bio": "A spell casted upon a lost soul, forever bounding it in a forcefield."
+    },
+    {
+        "name": "Love : Essence",
+        "rarity": "1/17000",
+        "bio": "A spirit that's loved their own existence, and everything around it."
+    },
+    {
+        "name": "Jazz",
+        "rarity": "1/19200",
+        "bio": "A very jazzy fellow. Brings joy, and music in the world."
+    },
+    {
+        "name": "Snow : Sleet",
+        "rarity": "1/23000",
+        "bio": "A manifestation of the cold."
+    },
+    {
+        "name": "Copper",
+        "rarity": "1/29000",
+        "bio": "Ore of a brownish hue."
+    },
+    {
+        "name": "Reaper",
+        "rarity": "1/32000",
+        "bio": "Harvestor of souls and the damned. Goes after those who have reached the end of their life."
+    },
+    {
+        "name": "Ocean",
+        "rarity": "1/40000",
+        "bio": "It represents the flow of water."
+    },
+    {
+        "name": "Prism",
+        "rarity": "1/40000",
+        "bio": "The stars shine best at midnight."
+    },
+    {
+        "name": "Shiver",
+        "rarity": "1/45000",
+        "bio": "bRrRrR... it sure is cold in here!.."
+    },
+    {
+        "name": "Lunar",
+        "rarity": "1/50000",
+        "bio": "It was formed by the twilight, and the moon. Created by an unknown being."
+    },
+    {
+        "name": "Solar",
+        "rarity": "1/50000",
+        "bio": "Just like Lunar, it was created with fire, and the sunshine. Formed by an unknown being that was the God of the Cosmos."
+    },
+    {
+        "name": "Astral",
+        "rarity": "1/50000",
+        "bio": "Drifting silently in the vast echoes of space."
+    },
+    {
+        "name": "Flame",
+        "rarity": "1/50000",
+        "bio": "The constant destruction of life."
+    },
+    {
+        "name": "Starlight",
+        "rarity": "1/55555",
+        "bio": "Even the ugliest stars shine the brightest."
+    },
+    {
+        "name": "Rainy",
+        "rarity": "1/60000",
+        "bio": "I always liked it when it rains."
+    },
+    {
+        "name": "Aurora",
+        "rarity": "1/60000",
+        "bio": "Weaving ribbons of ethereal green and violet that pulse with ancient Stellar energy."
+    },
+    {
+        "name": "Petalfall",
+        "rarity": "1/65000",
+        "bio": "When the time is right, the petals will fall in a beautiful manner during the cold winter nights."
+    },
+    {
+        "name": "Skull : Lobotomy",
+        "rarity": "1/69420",
+        "bio": "FIRE IN THE HOLE"
+    },
+    {
+        "name": "Venomous : Rays",
+        "rarity": "1/70000",
+        "bio": "The constant flow of destruction"
+    },
+    {
+        "name": "Abyssal",
+        "rarity": "1/70000",
+        "bio": "A small shout resounding from the depths of the abyss.."
+    },
+    {
+        "name": "Viridescent",
+        "rarity": "1/71400",
+        "bio": "Very shiny spirit"
+    },
+    {
+        "name": "Platinum",
+        "rarity": "1/73000",
+        "bio": "Ore of a precious, light blue hue."
+    },
+    {
+        "name": "Hail",
+        "rarity": "1/74500",
+        "bio": "Blizzard storms rage..."
+    },
+    {
+        "name": "Storm",
+        "rarity": "1/90000",
+        "bio": "Seek shelter."
+    },
+    {
+        "name": "Foreign",
+        "rarity": "1/99999",
+        "bio": "No one knows where it originates from. Nor who created it."
+    },
+    {
+        "name": "Eclipse",
+        "rarity": "1/100000",
+        "bio": "As the moon slowly guids the sky, blocking all of the light emitting from the sun, life, starts to shiver."
+    },
+    {
+        "name": "Dummy",
+        "rarity": "1/100000",
+        "bio": "Will you be my companion, forever and ever?"
+    },
+    {
+        "name": "Benevolus : Abyss",
+        "rarity": "1/100400",
+        "bio": "Purely created from the Abyss."
+    },
+    {
+        "name": "Plexus",
+        "rarity": "1/101101",
+        "bio": "No one can see, hear or touch this; perhaps, it might not even be real."
+    },
+    {
+        "name": "INTENSE",
+        "rarity": "1/101101",
+        "bio": "Harbinger of peace, teller of truth. Everyone thought he had gone mad. They isolated him, a social reject. And so, he made his own world where everything is... a little Intense."
+    },
+    {
+        "name": "Dark Matter",
+        "rarity": "1/111111",
+        "bio": "The matter solely produced by the void..."
+    },
+    {
+        "name": "Shine",
+        "rarity": "1/115000",
+        "bio": "All stars shine the same."
+    },
+    {
+        "name": "Asteroid",
+        "rarity": "1/120000",
+        "bio": "It is said to make wishes come true.."
+    },
+    {
+        "name": "Skull : Pumpkin",
+        "rarity": "1/120000",
+        "bio": "🎃"
+    },
+    {
+        "name": "Agate",
+        "rarity": "1/125000",
+        "bio": "This, is the name of a legendary man who approaches ones lost in the vast forest and gives directions. He is kind, and knows the forest better than anyone else. But one day, he stopped showing himself to people. Where did he go?"
+    },
+    {
+        "name": "Skull : Coems",
+        "rarity": "1/138840",
+        "bio": "AM BATA COEM"
+    },
+    {
+        "name": "Lofi",
+        "rarity": "1/150000",
+        "bio": "The calming beats are mesmerizing and soft.. It can almost put you to sleep."
+    },
+    {
+        "name": "Absolute Zero",
+        "rarity": "1/160360",
+        "bio": "Do you need a blanket?"
+    },
+    {
+        "name": "Zephyr",
+        "rarity": "1/180000",
+        "bio": "Winds carry you everywhere around the Globe. Almost sending you to Oblivion."
+    },
+    {
+        "name": "Luminance",
+        "rarity": "1/185000",
+        "bio": "A medium of light. Use to transmit energy and primordial knowledge. No one owns it though."
+    },
+    {
+        "name": "Skull : Cold",
+        "rarity": "1/200000",
+        "bio": "🥶"
+    },
+    {
+        "name": "Ultraviolet",
+        "rarity": "1/200000",
+        "bio": "You will never see the light, but the light always sees you."
+    },
+    {
+        "name": "WITHER",
+        "rarity": "1/200000",
+        "bio": "The ultimate decay of all life. Nothing can stop this force."
+    },
+    {
+        "name": "Malfunction",
+        "rarity": "1/250000",
+        "bio": "NO. WHAT? THIS WASNT SUPPOSED TO HAPPEN."
+    },
+    {
+        "name": "existence",
+        "rarity": "1/300000",
+        "bio": "genesis 0; when i was created, i had existenceexistenceexistence ; i walked?flew?swam? to you. he?she?they?it? screamed my?your?their? name.  apparently we all heard it. 'YOUR EXISTENCE IS CURED'."
+    },
+    {
+        "name": "Bliss",
+        "rarity": "1/350000",
+        "bio": "Heavenly thing"
+    },
+    {
+        "name": "Gamebreaker : Binary",
+        "rarity": "1/404040",
+        "bio": "request to authenticate to 'bltz.rng' failed."
+    },
+    {
+        "name": "Parasol",
+        "rarity": "1/436000",
+        "bio": "Parasol"
+    },
+    {
+        "name": "Frostborne",
+        "rarity": "1/450000",
+        "bio": "Frosty... the snowman!"
+    },
+    {
+        "name": "Constellation",
+        "rarity": "1/500000",
+        "bio": "Unnerving energy from the subspace lifts your body to a new dimension.."
+    },
+    {
+        "name": "Starlight : Flourite",
+        "rarity": "1/555555",
+        "bio": "The distant constellations look increasingly blurrier.."
+    },
+    {
+        "name": "Opal",
+        "rarity": "1/600000",
+        "bio": "Shining so bright.."
+    },
+    {
+        "name": "Summoning",
+        "rarity": "1/666666",
+        "bio": "From the scorched rifts of the Hell Biome, Summoning awakens ancient entities long banished by Blitzz himself. Glyphs burned into the air draw fragments of Animosity’s forgotten legions—creatures neither living nor dead. This aura binds you to those remnants… not as a master, but as a vessel. They do not serve you, they Wait."
+    },
+    {
+        "name": "Sandstorm",
+        "rarity": "1/700000",
+        "bio": "A man was in search of his 'Magnum Opus'. He searched long in hard in the hottest desert. He found it, but was sealed by a curse. His family, soon waiting for his return."
+    },
+    {
+        "name": "Excalibur",
+        "rarity": "1/775000",
+        "bio": "As his sword drew from the rock, all life felt chills down their spines."
+    },
+    {
+        "name": "Jackpot : Gambler",
+        "rarity": "1/777777",
+        "bio": "GAMBLE GAMBLE GAMBELE"
+    },
+    {
+        "name": "drowsy..",
+        "rarity": "1/777777",
+        "bio": "time to get some… sleep…"
+    },
+    {
+        "name": "Painite",
+        "rarity": "1/850000",
+        "bio": "Beautiful pink jewel born from the collision of neutron stars"
+    },
+    {
+        "name": "Storm : Tempest",
+        "rarity": "1/900000",
+        "bio": "Empty."
+    },
+    {
+        "name": "Stellar : Twilight",
+        "rarity": "1/999999",
+        "bio": "Born from blackholes, a twisted creation, born upon all man."
+    },
+    {
+        "name": "Galactic",
+        "rarity": "1/1000000",
+        "bio": "created from antimatter..."
+    },
+    {
+        "name": "Cherry Blossom",
+        "rarity": "1/1000000",
+        "bio": "i love blossom trees"
+    },
+    {
+        "name": "Peace",
+        "rarity": "1/1000500",
+        "bio": "Sooo... peaceful.."
+    },
+    {
+        "name": "Lapis : Planetary",
+        "rarity": "1/1024000",
+        "bio": "A very, beautiful creation."
+    },
+    {
+        "name": "Ambience",
+        "rarity": "1/1025000",
+        "bio": "The calm atmosphere lifts you up. You could almost fall asleep."
+    },
+    {
+        "name": "Unknown",
+        "rarity": "1/1111111",
+        "bio": "???"
+    },
+    {
+        "name": "Cadaver : Decay",
+        "rarity": "1/1200000",
+        "bio": "Failed to die."
+    },
+    {
+        "name": "Serendipity : Tranquil",
+        "rarity": "1/1220000",
+        "bio": "There are three truths to life: chaos, stillness, and the moment between."
+    },
+    {
+        "name": "Glacier : Frost",
+        "rarity": "1/1230400",
+        "bio": "Empty"
+    },
+    {
+        "name": "Hate : Unstable",
+        "rarity": "1/1280000",
+        "bio": "The essence of my HATE has embodied me. I am now a vessel of my feelings, and a projection of my mind. I HATE, and HATE I will forever."
+    },
+    {
+        "name": "Azure",
+        "rarity": "1/1500000",
+        "bio": "None at the moment."
+    },
+    {
+        "name": "Reality",
+        "rarity": "1/1672000",
+        "bio": "Reality breaks around you.."
+    },
+    {
+        "name": "Surge",
+        "rarity": "1/1763035",
+        "bio": "This amazing power accelerates objects continuously until they burn up from friction."
+    },
+    {
+        "name": "Convergence",
+        "rarity": "1/2000000",
+        "bio": "The irregularities of gravity incomprehensible to humans. It is thought to stem from the same material comprising the mysterious Great Attractor."
+    },
+    {
+        "name": "Horizon",
+        "rarity": "1/2200000",
+        "bio": "NONE"
+    },
+    {
+        "name": "Known",
+        "rarity": "1/2222222",
+        "bio": "known error"
+    },
+    {
+        "name": "Digital",
+        "rarity": "1/2500000",
+        "bio": "An advanced hologram device created by an unnamed civilization."
+    },
+    {
+        "name": "Jolly",
+        "rarity": "1/3000000",
+        "bio": "You know why this cutscene is black? Because its a surprise!! Just like how you unwrap presents."
+    },
+    {
+        "name": "Parasite",
+        "rarity": "1/3000000",
+        "bio": "Born in the festering veins of the Corruption, Parasite is a living affliction—an aura that twists the host from within. Inky tendrils pulse beneath the surface, whispering in forgotten tongues. It clings, adapts, and learns, reshaping your aura to suit its own evolution."
+    },
+    {
+        "name": "Lunar : Veil",
+        "rarity": "1/3000000",
+        "bio": "When the shimmer of the DUSK decays, it transformed into this.."
+    },
+    {
+        "name": "Cursor",
+        "rarity": "1/3000000",
+        "bio": "Rumors has it, this device has been made to manipulate and control everything in the world. But due to a glitch, it [ ???? ]."
+    },
+    {
+        "name": "Gaia",
+        "rarity": "1/3140000",
+        "bio": "Born from the soul of the planet, Gaia pulses with life itself. Every step breathes forests, every breath humbles the skies."
+    },
+    {
+        "name": "MATH",
+        "rarity": "1/3141592",
+        "bio": "It wasn't supposed to exist. But because of an analytic error, its forever infinite."
+    },
+    {
+        "name": "puppet",
+        "rarity": "1/3200000",
+        "bio": "Guardian angel sent down from heaven"
+    },
+    {
+        "name": "Stargazer",
+        "rarity": "1/3200000",
+        "bio": "ever heard of kendrick lamar?"
+    },
+    {
+        "name": "Amethyst",
+        "rarity": "1/3500000",
+        "bio": "None at the moment."
+    },
+    {
+        "name": "Ocean : Flame",
+        "rarity": "1/4000000",
+        "bio": "It represents the flow of the flames"
+    },
+    {
+        "name": "noir",
+        "rarity": "1/4000000",
+        "bio": "Forever bound to, the limbo."
+    },
+    {
+        "name": "Hephtaestus",
+        "rarity": "1/4444444",
+        "bio": "The perfect blacksmith, though that replicated perfectly, it is almost the same god."
+    },
+    {
+        "name": "Lunar : Dusk",
+        "rarity": "1/5000000",
+        "bio": "I.... am the honored one."
+    },
+    {
+        "name": "Solar : Dawn",
+        "rarity": "1/5000000",
+        "bio": "A powerful being created from pure sunshine."
+    },
+    {
+        "name": "Star Glitcher",
+        "rarity": "1/5000000",
+        "bio": "*&^%$^(*@&^#$^!&*"
+    },
+    {
+        "name": "Serendipity : Ravage",
+        "rarity": "1/5000000",
+        "bio": "Destroyer of realms."
+    },
+    {
+        "name": "Cosmo",
+        "rarity": "1/5500000",
+        "bio": "The best professional explorer/owner of the interstellars."
+    },
+    {
+        "name": "hallucination",
+        "rarity": "1/5900095",
+        "bio": "the day you forgot me. did i ever exist??? i forgot my name again??? was it even mine??? or was it yours??? i dont remember my birthday??? was it mine anyway??? i miss you??? or do you miss me???"
+    },
+    {
+        "name": "Twilight",
+        "rarity": "1/6000000",
+        "bio": "A jewel that shines brightly once every thousand years in the deepest part of the forest. No one has ever seen how bright that light is. According to rumors, the moon gives gifts to those who look at the gem with a pure heart without any evil..."
+    },
+    {
+        "name": "Rainy : Downpour",
+        "rarity": "1/6000000",
+        "bio": "In the midst of a storm, a small shout resounding from the abyss is emitted, but not heard."
+    },
+    {
+        "name": "Corrupt",
+        "rarity": "1/6333333",
+        "bio": "Try again."
+    },
+    {
+        "name": "Genesis",
+        "rarity": "1/6500000",
+        "bio": "In the beginning, it was there. It's the origins and the primordial knowlegde."
+    },
+    {
+        "name": "Endless",
+        "rarity": "1/6999999",
+        "bio": "Representing the cycle of infinity"
+    },
+    {
+        "name": "Uranus",
+        "rarity": "1/7000000",
+        "bio": "A being that once ruled the Skies and celestials above. Everything was calm and peaceful, until... everything was [ CENSORED ]"
+    },
+    {
+        "name": "Ember",
+        "rarity": "1/7000000",
+        "bio": "Can you feel the blazes igniting on your skin?"
+    },
+    {
+        "name": "Bliss : Delight",
+        "rarity": "1/7220000",
+        "bio": "Empty."
+    },
+    {
+        "name": "Harbinger",
+        "rarity": "1/7500000",
+        "bio": "The Harbinger, descendant of Omega, carries the final spark of a cosmic lineage. Born from the end and the beginning, it embodies the unyielding force that shapes fate itself."
+    },
+    {
+        "name": "Steampunk",
+        "rarity": "1/8000000",
+        "bio": "Weirds creation to help him."
+    },
+    {
+        "name": "Nuclear",
+        "rarity": "1/8000000",
+        "bio": "It wasn’t power they feared. It was what was left behind."
+    },
+    {
+        "name": "Kinetic",
+        "rarity": "1/8200000",
+        "bio": "K1n3tiC eNErGyyyy"
+    },
+    {
+        "name": "Helios",
+        "rarity": "1/8250000",
+        "bio": "A being that once ruled the sun long long ago.. It always maintains its stature, and all sky creatures are loyal to him. Except One."
+    },
+    {
+        "name": "Retro : Classic",
+        "rarity": "1/8888888",
+        "bio": "Retrospect"
+    },
+    {
+        "name": "Nullity",
+        "rarity": "1/9111111",
+        "bio": ".-- .. .-.. .-.. / -.-- --- ..- / ... - .- -.-- / .-- .. - .... / -- . ..--.."
+    },
+    {
+        "name": "Retro : Foreign",
+        "rarity": "1/9999999",
+        "bio": "The essence of time, merged with pure strange and foreign mannerisms."
+    },
+    {
+        "name": "Starstruck",
+        "rarity": "1/10000000",
+        "bio": "When the planets and stars aligned, a celestial event occured to form this."
+    },
+    {
+        "name": "Resonance",
+        "rarity": "1/10000000",
+        "bio": "Feel my truly unstoppable beats!!"
+    },
+    {
+        "name": "m i s t",
+        "rarity": "1/10385000",
+        "bio": "I saw it again. I swear I did, somewhere in the [ m i s t ]."
+    },
+    {
+        "name": "Ominous",
+        "rarity": "1/11200200",
+        "bio": "..."
+    },
+    {
+        "name": "Rainy : BloodRain",
+        "rarity": "1/12000000",
+        "bio": "As the Red Rain falls from the sky, you ponder: 'Where does this come from?'. You take a quick glance at the sky, and the [ RED ECLIPSE's ] power takes control of your body."
+    },
+    {
+        "name": "Exponent",
+        "rarity": "1/12101101",
+        "bio": "ERROR"
+    },
+    {
+        "name": "Agate : Purity",
+        "rarity": "1/12500000",
+        "bio": "NONE"
+    },
+    {
+        "name": "Hate : Balkan Rage",
+        "rarity": "1/12800000",
+        "bio": "ORADRENALINE ADREALINE BALKAN RAGE TROL FFACE"
+    },
+    {
+        "name": "Blizzard",
+        "rarity": "1/13400000",
+        "bio": "My limbs have gone numb. I can't feel anything.."
+    },
+    {
+        "name": "Rigel",
+        "rarity": "1/13500000",
+        "bio": "A beautiful star that always faces you when I look at the night sky. A special star that shines the brightest in the sky filled with stars. The star says to you, Those who have shone in their life... become stars in the future... and shine on others with their own light... The stars were always shining on you in their position."
+    },
+    {
+        "name": "Prism : Refraction",
+        "rarity": "1/14000000",
+        "bio": "The stars in the midnight sky respond back at you. It's like they're watching your every move.."
+    },
+    {
+        "name": "Holographic",
+        "rarity": "1/15000000",
+        "bio": "Its almost like its not even real!"
+    },
+    {
+        "name": "Azure : Soul",
+        "rarity": "1/15000000",
+        "bio": "Empty 4 rn."
+    },
+    {
+        "name": "Voyager",
+        "rarity": "1/15000000",
+        "bio": "Lost at sea, for thousands of years. Rumor has it that this boat sailed during the Great Flood."
+    },
+    {
+        "name": "Heretic",
+        "rarity": "1/16666666",
+        "bio": "Labeled a madman. Shunned. Forgotten. Yet his soul never silenced. Heretic is the cursed remnant of a lone believer who dared speak the name of a dormant god—The Altar—before fate had turned its gaze. His faith became rot. His truth became torment. And when he died, something… listened"
+    },
+    {
+        "name": "Graveyard",
+        "rarity": "1/17000771",
+        "bio": "Where the lost come to die."
+    },
+    {
+        "name": "Omniscient",
+        "rarity": "1/18000000",
+        "bio": "The knowledge of everything"
+    },
+    {
+        "name": "Guardian",
+        "rarity": "1/18000000",
+        "bio": "A moment when he is outside, the lights cast upon him in a colorful fashion."
+    },
+    {
+        "name": "erasure",
+        "rarity": "1/19000000",
+        "bio": "A being bound to being erased. This being is clinging on by a hair to keep its form. Rumors say this being was erased during the Great Purge."
+    },
+    {
+        "name": "Polarized",
+        "rarity": "1/20000000",
+        "bio": "Feel my unstoppable beats!"
+    },
+    {
+        "name": "Boundless",
+        "rarity": "1/20000000",
+        "bio": "Empty 4 rn."
+    },
+    {
+        "name": "Tidal Wave",
+        "rarity": "1/20000000",
+        "bio": "NONE"
+    },
+    {
+        "name": "PHANTOM",
+        "rarity": "1/21000000",
+        "bio": "The lord of the ghost and ghouls reanimates to take what truly was theirs. Y O U R  S O U L."
+    },
+    {
+        "name": "Neptune",
+        "rarity": "1/22222222",
+        "bio": "The perfect embodiment of Neptune and the Good itself."
+    },
+    {
+        "name": "Ascension",
+        "rarity": "1/25000000",
+        "bio": "Once a divine messenger of God, torn apart. Was cast to be bound by the [????]. Was then given a second chance to rise amongst those breathing."
+    },
+    {
+        "name": "Extremity",
+        "rarity": "1/25000000",
+        "bio": "*&^%$^(*@&^#$^!&*"
+    },
+    {
+        "name": "Azure : Lumin",
+        "rarity": "1/30000000",
+        "bio": "Empty 4 rn."
+    },
+    {
+        "name": "Imperium",
+        "rarity": "1/33334444",
+        "bio": "The luminosity existing in all dimensions.. rumors has it that it is a deity worshipped by an unknown civilization.."
+    },
+    {
+        "name": "Zenith",
+        "rarity": "1/35000000",
+        "bio": "Try again."
+    },
+    {
+        "name": "Bereft",
+        "rarity": "1/35500000",
+        "bio": "It never had to be this way."
+    },
+    {
+        "name": "Enchanter",
+        "rarity": "1/40000000",
+        "bio": "In a country where the vast majority of people attend church, there is a deep-rooted belief in powers, either from 『God』 or from the 'dark side'. Their god, is believed a spirit or being that has great power, strength, knowledge, etc., and that can affect nature and the lives of people. Someone will get this, and be an absolute and powerful being..."
+    },
+    {
+        "name": "POLRIZD",
+        "rarity": "1/40000000",
+        "bio": "y35!! f33l my un5t0pp4bl3 b34t5!!1!!?"
+    },
+    {
+        "name": "Checkmate",
+        "rarity": "1/41111000",
+        "bio": "haha, CHECKMATE!!"
+    },
+    {
+        "name": "Zilch",
+        "rarity": "1/44000333",
+        "bio": "Null sides."
+    },
+    {
+        "name": "Paranoia",
+        "rarity": "1/45000000",
+        "bio": "Ever get paranoia walking alone?"
+    },
+    {
+        "name": "Authority",
+        "rarity": "1/45250000",
+        "bio": "A wonderful angel, whose goal was to climb the ranks as fast as she could, was sent, to hell."
+    },
+    {
+        "name": "Foreign : Predator",
+        "rarity": "1/45999500",
+        "bio": "Maybe this is the source of the ancient being, that people were dying to know about?"
+    },
+    {
+        "name": "Cyberspace",
+        "rarity": "1/50000000",
+        "bio": "A whimsical, and nostalgic power overwhelms you."
+    },
+    {
+        "name": "Digital : Reboot",
+        "rarity": "1/53404404",
+        "bio": "Almost like it isn't even there."
+    },
+    {
+        "name": "Twilight : Obscured",
+        "rarity": "1/60000000",
+        "bio": "A faded jewel, veiled by the clouds above. Succumbing to what she once knew, to what she has become. 'As my memories slip into the night, I have no one else to call my own except myself. Everyday, my memories become increasingly blurrier. Until Ive longed to see their faces, [ once again ].'"
+    },
+    {
+        "name": "Altar",
+        "rarity": "1/61000000",
+        "bio": "Bleeding through and from the Second World."
+    },
+    {
+        "name": "Hades : Reaper",
+        "rarity": "1/66666666",
+        "bio": "This beings presence overwhelms and overrides your emotions. You don't know what to think, feel, nor say. The only thing that matters, is how you'll escape."
+    },
+    {
+        "name": "Ink : Superfluidity",
+        "rarity": "1/70000000",
+        "bio": "BLACKBLACKBLACKBLACKBLACKBLACKBLACKBLACKBLACKBLACKBLACKBLACKBLACKBLACK."
+    },
+    {
+        "name": "Ultralight",
+        "rarity": "1/70000000",
+        "bio": "BOOMBOOMBOOMB"
+    },
+    {
+        "name": "reverie",
+        "rarity": "1/70000000",
+        "bio": "I've been trapped in my thoughts for days, weeks even, probably years. I've walked the same path 1,583 times. I've counted all the rocks along the way, and all the trees and sticks that lie on the ground. I cannot continue.  n   t  l  k e   t h  s"
+    },
+    {
+        "name": "Digital : Control",
+        "rarity": "1/70123456",
+        "bio": "The sole embodiment of Control. This device can do anything today's civilization can do in 4,000 years. This technology is so advanced, many people from the 2nd civilization praised it, as some sort of god. Maybe thats what it was from the start."
+    },
+    {
+        "name": "FALLEN",
+        "rarity": "1/72000000",
+        "bio": "A oppressor. Defied and opposed many kings, but... this time, it was different. VERY DIFFERENT."
+    },
+    {
+        "name": "Surge : Lightspeed",
+        "rarity": "1/76630000",
+        "bio": "YOU'RE TO SLOW!"
+    },
+    {
+        "name": "void",
+        "rarity": "1/79999999",
+        "bio": "void. The only who was brave enough to face god, tormented forever, in NULL."
+    },
+    {
+        "name": "dreamscape",
+        "rarity": "1/80000000",
+        "bio": "Only those in a deep slumber are able to visit this world.."
+    },
+    {
+        "name": "KINETIC : HYPERION",
+        "rarity": "1/82000000",
+        "bio": "its 10am and im hungry"
+    },
+    {
+        "name": "Painite : Viridescence",
+        "rarity": "1/85000000",
+        "bio": "He rushed to the top of the mountain to claim the faded jewel, as each of his friends fell one by one. He ran back home with the jewel, and studied it day and night. When he went to bed, the jewel flashed green, and there he lay. Soul-torn. Separated from body, to soul."
+    },
+    {
+        "name": "Singularity",
+        "rarity": "1/90000000",
+        "bio": "Beyond the nullscapes, the singularity is created. Remnants of the past Earth, reborn into the true, devouring eye."
+    },
+    {
+        "name": "Neutron Star",
+        "rarity": "1/90000000",
+        "bio": "THE POWER."
+    },
+    {
+        "name": "Polarized : Origin",
+        "rarity": "1/99999999",
+        "bio": "The eyes of reality. Forever seeing the end, and beginning of the universe. The universe seeps through this medium of light, to speak for the future, and ring through the past. [ TELLER OF TRUE FATE. ]"
+    },
+    {
+        "name": "Starstruck : Cosmos",
+        "rarity": "1/100000000",
+        "bio": "When the stars merged, they formed into this."
+    },
+    {
+        "name": "Galactic : Quasar",
+        "rarity": "1/100000000",
+        "bio": "The Stars illuminate your destiny. Come forth, for this even where the galaxies collide happen once ever billions of years. This is your true, salvation."
+    },
+    {
+        "name": "Sunscape",
+        "rarity": "1/120000000",
+        "bio": "sun 'created by weird'"
+    },
+    {
+        "name": "Phantasm",
+        "rarity": "1/120000000",
+        "bio": "Evil. Luring the lost to the deep ends of the forest where the cursed moon shines brightly on their skin. The cursed moon corrupts their minds, and makes them take their own lives."
+    },
+    {
+        "name": "Fleeting",
+        "rarity": "1/125000000",
+        "bio": "My memories are becoming weaker, and weaker. I can't remember who I am, or what I'm here for. It's a purpose, but whose right do I have to fufill it?"
+    },
+    {
+        "name": "ASTEROID : DISASTER",
+        "rarity": "1/125555555",
+        "bio": "After the Great Purge, he was angry, he was MAD. He wanted to take revenge for all that wronged him. He wanted to be the ultimate Disaster."
+    },
+    {
+        "name": "Paradox",
+        "rarity": "1/150000000",
+        "bio": "Inexorbaly, time moves unpredictally, and unstable. Perhaps this being lost control over its power... However, don't let that fool you."
+    },
+    {
+        "name": "Cryogenic",
+        "rarity": "1/156000000",
+        "bio": "placeholder"
+    },
+    {
+        "name": "Tranquility",
+        "rarity": "1/175000000",
+        "bio": "When it first entered reality, peace, and tranquility were reigned upon the world."
+    },
+    {
+        "name": "Nightmare",
+        "rarity": "1/190000000",
+        "bio": "Your worst nightmare suddenly reanimates."
+    },
+    {
+        "name": "Jazz : Harmony",
+        "rarity": "1/192000000",
+        "bio": "The harmony resonantes with the world and releases inner peace."
+    },
+    {
+        "name": "Peace : Neuroarcadia",
+        "rarity": "1/199999999",
+        "bio": "I found the peace that lies within me. Now, it is time for this peace to Spread."
+    },
+    {
+        "name": "PENUMBRA",
+        "rarity": "1/200000000",
+        "bio": "Violet, the color symbolizing royalty, corruptioon, and imbalance is one that illuminated the world. One that wasn't afriad to consume even the greatest amount of light. Until, he was [=====]"
+    },
+    {
+        "name": "Cosmology",
+        "rarity": "1/225000000",
+        "bio": "Dreamy starlight and galactic energy pours through the world."
+    },
+    {
+        "name": "SUBJUGATION",
+        "rarity": "1/230000000",
+        "bio": "i  @m  y0u rs.  + @ k3  m 3  fu1 1y.  i 5ubm1+ t 0  y0 u. 1  @m n0+h +1n6  w1+h 0ut  you."
+    },
+    {
+        "name": "PROPHECY",
+        "rarity": "1/243000000",
+        "bio": "NONE."
+    },
+    {
+        "name": "Reality : Overseer",
+        "rarity": "1/267200000",
+        "bio": "terraria go brrr"
+    },
+    {
+        "name": "Sword Rider",
+        "rarity": "1/270000000",
+        "bio": "UHHH DUDE IDK"
+    },
+    {
+        "name": "Tach-yon",
+        "rarity": "1/299792459",
+        "bio": "You're faster than light. You don't know how to stop."
+    },
+    {
+        "name": "Catastrophe",
+        "rarity": "1/300000000",
+        "bio": "Descendant of Destruction, father of Calamity"
+    },
+    {
+        "name": "Paradox : Collapse",
+        "rarity": "1/300000000",
+        "bio": "Forged in the dying echoes of broken timelines, Collapse isnt just a deity, it’s a warning. When the Red Eclipse fractured reality, this anomaly emerged from the seams of collapsing worlds, where time bled and logic failed. It is said to be the final echo of a timeline that was never meant to exist… a timeline where Animosity won."
+    },
+    {
+        "name": "NIGHTBORNE",
+        "rarity": "1/300000000",
+        "bio": "Created by an unknown powerful force, this being has enough power to cast eternal darkness over the world forever."
+    },
+    {
+        "name": "MALEVOLENT",
+        "rarity": "1/305000000",
+        "bio": "A manifestation of all hatred. The purest of pure. Fed by negative emotions, and will never be satisfied."
+    },
+    {
+        "name": "ETERNIS",
+        "rarity": "1/320000000",
+        "bio": "Second ancestor of all light. Almost as much in power as the [ ORIGIN ]."
+    },
+    {
+        "name": "puppet : PERDITION",
+        "rarity": "1/332000000",
+        "bio": "Hope comes to Die."
+    },
+    {
+        "name": "Enchanter : Glorified",
+        "rarity": "1/350000000",
+        "bio": "A false deity, fooled man for way too long, until, he was finally sent to hell."
+    },
+    {
+        "name": "Sanctum",
+        "rarity": "1/350000000",
+        "bio": "A wonderful, safe haven for the lost."
+    },
+    {
+        "name": "APOLLO",
+        "rarity": "1/360000000",
+        "bio": "The Luminosity existing between and in worlds."
+    },
+    {
+        "name": "s e a",
+        "rarity": "1/375000000",
+        "bio": "You dont know where you are. How youre there, or anything."
+    },
+    {
+        "name": "starborne",
+        "rarity": "1/400000000",
+        "bio": "A drifting echo of the universe’s first melody, forged from the remnants of a lost nebula. Once revered by ancient civilizations, it was shattered in a war against [The Chaos] Faction, who sought to silence its song. Now, its fragments wander the cyberspace, searching for those worthy of wielding its luminosity. To bear this is to carry a fragment of creation itself—an echo of a forgotten harmony, waiting to be heard once more."
+    },
+    {
+        "name": "BLOODLUST",
+        "rarity": "1/400000000",
+        "bio": "The humanities desire for blood and death."
+    },
+    {
+        "name": "COLLAPSAR",
+        "rarity": "1/420000000",
+        "bio": "The devourer of all worlds, dimensions, and GALAXIES.. has a heavy relation with the GREAT ATTRACTOR"
+    },
+    {
+        "name": "ASUNDER",
+        "rarity": "1/444000333",
+        "bio": "A division of order, and imbalance."
+    },
+    {
+        "name": "Solar : Heliocentric",
+        "rarity": "1/485000000",
+        "bio": "Bound to be the center of the universe, was born to fufill starborn prophecies."
+    },
+    {
+        "name": "Overgrowth",
+        "rarity": "1/500000000",
+        "bio": "Remnants left from the beginning of time, has only been touched by the mere sun."
+    },
+    {
+        "name": "CYBERSPACE : OVERLOAD",
+        "rarity": "1/503000000",
+        "bio": "system faIlUre.."
+    },
+    {
+        "name": "Polarized : Spectrum",
+        "rarity": "1/534200500",
+        "bio": "Harnessing the power and energy from the Spectrum, the light around you bends and warps to Polarize it all."
+    },
+    {
+        "name": "Genesis : Omega",
+        "rarity": "1/650000000",
+        "bio": "Genesis was the start. It made the world from nothing. Land, sky, stars—everything came after. Now it watches as things grow, change, break, and begin all over again."
+    },
+    {
+        "name": "Requiem",
+        "rarity": "1/666666000",
+        "bio": "???"
+    },
+    {
+        "name": "HELLSPAWN",
+        "rarity": "1/666666666",
+        "bio": "Lord of the Dead, lord of all Decaying. When the day comes, his wrath will be unforgiving."
+    },
+    {
+        "name": "Tyrant",
+        "rarity": "1/750000000",
+        "bio": "Magnificient. Puprle, symbolizing royalty. The most beautiful creation in the world was crowned king. All was well until rumor was spread that he took the life of one. Everyone protested against him, and neglected and abused him. Until one day, he made the rumor true. 'I'll show you who you call King.'"
+    },
+    {
+        "name": "ETERNIS : FINAL LIGHT",
+        "rarity": "1/840000000",
+        "bio": "As the Final Light shines through, your last hope, your last salvation sparks anew. The last Eternity shines brightly until all have fallen through redemption."
+    },
+    {
+        "name": "dreamscape : eternal",
+        "rarity": "1/850000000",
+        "bio": "forever bound on the same journey on the road. time never passes here. no signs of life have been detected. not even in the slightest. nothig has changed from the 8,509 dayss ive been here. maybe.. im here, with a Eternal lasting feeling of guilt."
+    },
+    {
+        "name": "CYBERSPACE : WORLDWEB",
+        "rarity": "1/888888888",
+        "bio": "100% REAL!!! NOT FAKE AT ALL!!! 1000000%% IMMERSION. 100% HARMLESS!!! SO FREE!! NOT CLICKBAIT. User1: yo bro. User2: yo. User1: wanna hop on blitzz rng?. User2: yeah. User1: aight."
+    },
+    {
+        "name": "SPACE",
+        "rarity": "1/1000000000",
+        "bio": "tung tung tung tung sahur"
+    },
+    {
+        "name": "Nautica",
+        "rarity": "1/1000000000",
+        "bio": "Forever forgotten land."
+    },
+    {
+        "name": "TENEBRIS",
+        "rarity": "1/1000000000",
+        "bio": "The all father of evil and chaos."
+    },
+    {
+        "name": "TORMENTUS",
+        "rarity": "1/1000000035",
+        "bio": "im finally free. you freed me."
+    },
+    {
+        "name": "Unknown : Undefined",
+        "rarity": "1/1010101010",
+        "bio": "A breath that wasnt supposed to flourish. A step that wasn't supposed to be heard."
+    },
+    {
+        "name": "Resonance : Fantasia",
+        "rarity": "1/1100000000",
+        "bio": "Pretty."
+    },
+    {
+        "name": "ANIMOSITY",
+        "rarity": "1/1200000000",
+        "bio": "Apocalyptic weapon.. Lord of Futile Memories.. PURE EVIL. A being whose sole purpose is to bring chaos and evil to the world. Was praised by a lesser being.... He took advantage of this being. If he were to do something, the lesser being would follow. [ ARE YOU SCARED OF ME? ]"
+    },
+    {
+        "name": "Antipathy",
+        "rarity": "1/1750000000",
+        "bio": "[ DESCRIPTION EMPTY ]"
+    },
+    {
+        "name": "NEONIZED",
+        "rarity": "1/2000000002",
+        "bio": "The forever allowing cascading light. A pure embodiment."
+    },
+    {
+        "name": "Affection",
+        "rarity": "1/2020202020",
+        "bio": "i love u too"
+    },
+    {
+        "name": "Decryption",
+        "rarity": "1/2202020202",
+        "bio": "222222222222222"
+    },
+    {
+        "name": "Exponent : Entropy",
+        "rarity": "1/2404404404",
+        "bio": "tungtungtunguntugn"
+    },
+    {
+        "name": "EDEN",
+        "rarity": "1/3200000000",
+        "bio": "The first bloom, the first creation. Blitzz created EDEN in an image. A pure one. Eden was made to be a guardian, a right hand person. A fighter. After all that Blitzz has done, she still stands for him."
+    },
+    {
+        "name": "Zero",
+        "rarity": "1/5000000000",
+        "bio": "what remains, is  z e ro. the b e g i n n  n g"
+    },
+    {
+        "name": "Red Stars",
+        "rarity": "Dev Exclusive",
+        "bio": "NEVER STARE AT THE STARS."
+    },
+    {
+        "name": "blitz : touch me (jkjk)",
+        "rarity": "Dev Exclusive",
+        "bio": "eh"
+    },
+    {
+        "name": "s i n g u l a r i t y : t e r m i n a l",
+        "rarity": "1/9000000000",
+        "bio": "At the very edge of memory, countless forgotten memories formed that singularity.\t'The story that was never told doesn't end with a sound, but with a silence so long it seems to turn into eternity.'"
+    },
+    {
+        "name": "Spectrumised",
+        "rarity": "Dev Exclusive",
+        "bio": "blitzyyy"
+    },
+    {
+        "name": "my eyes",
+        "rarity": "Dev Exclusive",
+        "bio": "lalalal"
+    },
+    {
+        "name": "Mango",
+        "rarity": "Dev Exclusive",
+        "bio": "BOI TS SO TUFF"
+    },
+    {
+        "name": "Red Eclipse",
+        "rarity": "Dev Exclusive",
+        "bio": "The red eclipse shines beautifully doused in the crimson light."
+
+    },
+    {
+        "name": "orb",
+        "rarity": "Dev Exclusive",
+        "bio": "orbular"
+
+    },
+    {
+        "name": "orb",
+        "rarity": "Dev Exclusive",
+        "bio": "orbular"
+
+    },
+    {
+        "name": "Blitzz",
+        "rarity": "Dev Exclusive",
+        "bio": "The first spark in the void, Blitzz is not just a being—it is a force, a principle. The embodiment of purity through erasure. Its aura crackles with unstable divinity, reality bending around its every breath. Time stalls. Biomes tremble. Even Animosity remembers the burn. Created to purge the fractured worlds, Blitzz carries three aspects of life: Creation, Control, and Collapse—each circling the core of a soul untouched by fate. This is no gift. This is the storm that ends all storms."
+
+    }
 ]
